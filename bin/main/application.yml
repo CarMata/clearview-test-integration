@@ -1,0 +1,7 @@
+server:
+  port: 8081
+file-configuration:
+  path-directory: C:\clearview_test\
+  standard-filename: IntegrationTest.json
+  outputPost-filename: outPutPost.txt
+  outputGet-filename: outPutGet.txt
